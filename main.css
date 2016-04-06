@@ -1,0 +1,17 @@
+
+.pri{ 
+	border:10px solid  yellow;
+	padding: 30px;
+	margin: 20px;
+	height: 200px;
+	width:200px;
+
+}
+
+.seg{ 
+	border:10px solid  yellow;
+	padding: 30px;
+	margin: auto;
+	height: 200px;
+	width:200px;
+}
